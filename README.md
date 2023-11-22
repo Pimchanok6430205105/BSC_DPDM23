@@ -14,4 +14,4 @@ Create Preprocessing and Data Mining
 
 -GitHub 5%
 
-Final Score = Score * %attendance
+## Final Score = Score * %attendance
