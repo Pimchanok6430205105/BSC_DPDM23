@@ -14,6 +14,8 @@ GitHub|จัดเรียงให้สวยงาม| 5%|
  -- |Total | 100%|
 
 ### **Final Score = Score * %attendance**
+# CODE
+-  
 
 # Homework
 1.  [Click to go to HW1](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/สำเนาของ_Frequent_Patterns_(Association_Rules).ipynb#scrollTo=KZmRixV_o0Jw)  
@@ -25,5 +27,5 @@ GitHub|จัดเรียงให้สวยงาม| 5%|
 -  Frequent Item Set & Assosiation Rules : [Click to go to HW1 PRESENTATION](https://drive.google.com/file/d/1snYu3ZAtJNavDxonz1QuizDtNUdR8bNW/view)
 -  Decision tree using MIN_WEIGHT_FRACTION_LEAF by coding : [Click to go to HW3 PRESENTATION](https://drive.google.com/file/d/1Z6ecOVweyQ7h7vs3iItATnF6xbZK4DdU/view)  
 -  Decision tree using MIN_WEIGHT_FRACTION_LEAF by คำนวณมือ : [Click to go to HW4 PRESENTATION](https://drive.google.com/file/d/1RM0nY7qf4BpBlwCmvjAg2h7COLpfopRQ/view)
--  Final PROJECT 
+-  Project Decision tree ทำนายพฤติกรรมการได้รับข่าวปลอมของผู้ใช้งานอินเทอร์เน็ตในประเทศไทย : [Click to go to Final PROJECT PRESENTATION](https://drive.google.com/file/d/1An-igHx7QIlI0tEu3hPIcAD7M_mlRNvK/view)
 
