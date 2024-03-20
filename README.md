@@ -1,8 +1,6 @@
 # BSC_DPDM23
-Create Preprocessing and Data Mining
-
-# Overview
- [HW5](HW5-1.jpg)
+ Create Data Preprocessing and Data Mining
+> นางสาวพิมชนก วงศ์สายเชื้อ รหัสนักศึกษา 643020510-5 SIDS
 
 # Score
 Work | Details | Scores
@@ -16,3 +14,10 @@ GitHub|จัดเรียงให้สวยงาม| 5%|
  -- |Total | 100%|
 
 ### **Final Score = Score * %attendance**
+
+# Overview Homework
+ [Click to go to HW1](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/สำเนาของ_Frequent_Patterns_(Association_Rules).ipynb#scrollTo=KZmRixV_o0Jw)  
+ [Click to go to HW2](https://drive.google.com/file/d/1oDmQMkYu1cIbO8EB2MCIgarpRX8Rv-vu/view)  
+ [Click to go to HW3](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/Classification.ipynb#scrollTo=tL_i-KuGJlO7)  
+ [Click to go to HW4](https://drive.google.com/file/d/11eeawxxGT_i0SUVOFkM-jDemLFKf4aBk/view)  
+ [Click to go to HW5](HW5-1.jpg)  
