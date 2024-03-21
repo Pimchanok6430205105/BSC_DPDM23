@@ -3,15 +3,15 @@
 > นางสาวพิมชนก วงศ์สายเชื้อ รหัสนักศึกษา 643020510-5 SIDS :wave:
 
 # Score :100:
-Work | Details | Scores
------|-----|-----
-Midterm | data prepocessing ปฏิบัติ (เดี่ยว) | 20%|
-Final | ทฤษฎี data mining เดี่ยว | 20%|
-Project | data prepocessing + data mining (กลุ่ม) | 30%|
-Homework|แบ่งกลุ่มใหม่ทุกครั้ง|20%|
-Quiz|เดี่ยว ถามในห้อง| 5%|
-GitHub|จัดเรียงให้สวยงาม| 5%|
- -- |Total | 100%|
+Work | Details | Scores| 
+-----|-----|-----|
+Midterm | data prepocessing ปฏิบัติ (เดี่ยว) | 20% |
+Final | ทฤษฎี data mining เดี่ยว | 20% |
+Project | data prepocessing + data mining (กลุ่ม) | 30% |
+Homework|แบ่งกลุ่มใหม่ทุกครั้ง|20% |
+Quiz|เดี่ยว ถามในห้อง| 5% |
+GitHub|จัดเรียงให้สวยงาม| 5% |
+ -- |Total | 100% |
 
 ### **Final Score = Score * %attendance** :+1: 
 # :round_pushpin: CODE :computer:
@@ -34,8 +34,8 @@ GitHub|จัดเรียงให้สวยงาม| 5%|
 -  Decision tree using MIN_WEIGHT_FRACTION_LEAF by คำนวณมือ : [Click to go to HW4 PRESENTATION](https://drive.google.com/file/d/1RM0nY7qf4BpBlwCmvjAg2h7COLpfopRQ/view)
 -  Project Decision tree ทำนายพฤติกรรมการได้รับข่าวปลอมของผู้ใช้งานอินเทอร์เน็ตในประเทศไทย : [Click to go to Final Project PRESENTATION](https://drive.google.com/file/d/1An-igHx7QIlI0tEu3hPIcAD7M_mlRNvK/view)
 ### Group Project Members
-ลำดับ | ขื่อ | รหัสนักศึกษา|
------|-----|-----
+ลำดับ | ขื่อ | รหัสนักศึกษา| 
+-----|-----|-----| 
 1.| นายปิยพัทธ์ ปานะถึก |  643020507-4  |  
 2.| นางสาวพัณณิตา ทองบ่อ |  643020508-2  |
 3.|นางสาวพิมชนก วงศ์สายเชื้อ | 643020510-5  |
