@@ -23,11 +23,11 @@ GitHub|จัดเรียงให้สวยงาม| 5%|
 -  Classification : [Click to go to colab](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/Classification.ipynb)
   
 # :fist_right: Homework :fist_left:
-1.  [Click to go to HW1](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/สำเนาของ_Frequent_Patterns_(Association_Rules).ipynb#scrollTo=KZmRixV_o0Jw)  
-2.  [Click to go to HW2](https://drive.google.com/file/d/1oDmQMkYu1cIbO8EB2MCIgarpRX8Rv-vu/view)  
-3.  [Click to go to HW3](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/Classification.ipynb#scrollTo=tL_i-KuGJlO7)  
-4.  [Click to go to HW4](https://drive.google.com/file/d/11eeawxxGT_i0SUVOFkM-jDemLFKf4aBk/view)  
-5.  [Click to go to HW5](HW5-1.jpg)  
+- [x]   [Click to go to HW1](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/สำเนาของ_Frequent_Patterns_(Association_Rules).ipynb#scrollTo=KZmRixV_o0Jw)  
+- [x]   [Click to go to HW2](https://drive.google.com/file/d/1oDmQMkYu1cIbO8EB2MCIgarpRX8Rv-vu/view)  
+- [x]   [Click to go to HW3](https://colab.research.google.com/github/Pimchanok6430205105/BSC_DPDM23/blob/main/Classification.ipynb#scrollTo=tL_i-KuGJlO7)  
+- [x]   [Click to go to HW4](https://drive.google.com/file/d/11eeawxxGT_i0SUVOFkM-jDemLFKf4aBk/view)  
+- [x]   [Click to go to HW5](HW5-1.jpg)  
 # :star2: Group Presentation :star2:
 -  Frequent Item Set & Assosiation Rules : [Click to go to HW1 PRESENTATION](https://drive.google.com/file/d/1snYu3ZAtJNavDxonz1QuizDtNUdR8bNW/view)
 -  Decision tree using MIN_WEIGHT_FRACTION_LEAF by coding : [Click to go to HW3 PRESENTATION](https://drive.google.com/file/d/1Z6ecOVweyQ7h7vs3iItATnF6xbZK4DdU/view)  
